@@ -1,10 +1,8 @@
 # SST User Group 2023 Materials
 
-This site serves as an archival site for the SST User Group 2023 Summit held on September 25-26 2023.  We have posted slides for all presenters who have provided permission for us to do so. 
+This site serves as an archival site for the SST User Group 2023 Summit held on September 25-26 2023.  We have posted slides for all presenters who have provided permission for us to do so. Please see the Zenodo link or the Citation stub for information on citing specific talks. 
 
-## **SST User Group Agenda**
-
-## Monday, September 25, 2023     (All Sessions in Klaus Advanced Computing Building, Room 1116)
+## Monday, September 25, 2023     
 
 | 8:30 AM (EST) |                                                   | Registration and Continental Breakfast                       |
 | **Time (EDT)** | **Session**                                                  | **Presenters**                               |
