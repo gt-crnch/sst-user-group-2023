@@ -3,7 +3,6 @@ message: "To cite any of these presentations, please use the following syntax, r
 authors:
 - family-names: "<SST UG Speaker Last Name>"
   given-names: "<SST UG Speaker First Name>"
-  given-names: "Mona"
 title: "SST User Group"
 doi: "10.0000/00000"
 date-released: 2023-09-26
