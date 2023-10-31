@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "To cite any of these presentations, please use the following syntax, replacing the correct author and talk title."
+authors:
+- family-names: "<SST UG Speaker Last Name>"
+  given-names: "<SST UG Speaker First Name>"
+  given-names: "Mona"
+title: "SST User Group"
+doi: "10.0000/00000"
+date-released: 2023-09-26
+url: "https://github.com/gt-crnch/sst-user-group-2023"
+preferred-citation:
+  type: presentation
+  authors:
+  - family-names: "<SST UG Speaker Last Name>"
+    given-names: "<SST UG Speaker First Name>"
+  doi: "10.0000/00000"
+  journal: "SST User Group 2023"
+  month: 9
+  title: "<SST User Group Presentation>"
+  year: 2023
