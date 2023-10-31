@@ -4,7 +4,6 @@ This site serves as an archival site for the SST User Group 2023 Summit held on 
 
 ## Monday, September 25, 2023     
 
-| 8:30 AM (EST) |                                                   | Registration and Continental Breakfast                       |
 | **Time (EDT)** | **Session**                                                  | **Presenters**                               |
 | -------------- | ------------------------------------------------------------ | -------------------------------------------- |
 | 8-8:40         | **Breakfast and Registration**                               |                                              |
